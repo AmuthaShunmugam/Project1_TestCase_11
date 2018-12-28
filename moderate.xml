@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<test name ="Mail and Phone number Validation">
+<classes>
+<class name="com.ibm.pages"/>
+<class name="com.ibm.test"/>
+</classes>
+</test>
